@@ -15,7 +15,7 @@ import okio.Buffer;
 import retrofit2.Converter;
 
 /**
- * Created by jiang.xu on 2016/3/1.
+ * Created by fei.wang on 2016/3/1.
  */
  final class GsonRequestBodyConverter<T> implements Converter<T, RequestBody> {
     private static final MediaType MEDIA_TYPE = MediaType.parse("application/json; charset=UTF-8");

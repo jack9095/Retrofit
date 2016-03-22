@@ -1,14 +1,14 @@
 package com.jx.retrofitlearn.model;
 
 /**
- * Created by jiang.xu on 2016/2/22.
+ * Created by fei.wang on 2016/2/22.
  */
 public class User {
 
 
     /**
      * id : 1
-     * name : 王菲
+     * name : 王飞
      * password : 123456
      * sex : 男
      * phone : 13795378745

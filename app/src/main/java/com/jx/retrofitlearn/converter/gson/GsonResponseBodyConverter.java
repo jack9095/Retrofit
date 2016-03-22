@@ -8,7 +8,7 @@ import okhttp3.ResponseBody;
 import retrofit2.Converter;
 
 /**
- * Created by jiang.xu on 2016/3/1.
+ * Created by fei.wang on 2016/3/17.
  */
  final class GsonResponseBodyConverter<T> implements Converter<ResponseBody, T> {
     private final TypeAdapter<T> adapter;

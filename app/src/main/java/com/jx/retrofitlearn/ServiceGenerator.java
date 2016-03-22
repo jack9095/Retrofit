@@ -8,7 +8,7 @@ import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 
 /**
- * Created by jiang.xu on 2015/11/7.
+ * Created by fei.wang on 2015/11/7.
  *
  * 服务产生类
  */

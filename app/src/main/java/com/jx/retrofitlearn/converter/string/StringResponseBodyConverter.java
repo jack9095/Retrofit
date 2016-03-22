@@ -8,7 +8,7 @@ import okhttp3.ResponseBody;
 import retrofit2.Converter;
 
 /**
- * Created by jiang.xu on 2016/3/1.
+ * Created by fei.wang on 2016/3/15.
  */
 final class StringResponseBodyConverter implements Converter<ResponseBody, String> {
 

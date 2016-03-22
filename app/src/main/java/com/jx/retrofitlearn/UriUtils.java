@@ -10,7 +10,7 @@ import android.provider.DocumentsContract;
 import android.provider.MediaStore;
 
 /**
- * Created by jx on 2015/10/26.
+ * Created by fei.wang on
  */
 public class UriUtils {
     /**

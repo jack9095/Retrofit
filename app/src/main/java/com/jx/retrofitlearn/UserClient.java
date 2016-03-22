@@ -13,7 +13,7 @@ import retrofit2.http.POST;
 import retrofit2.http.Query;
 
 /**
- * Created by jiang.xu on 2016/2/22.
+ * Created by fei.wang on 2016/2/22.
  * 在我们定义请求的接口时，会传入具体的接口的地址
  */
 public interface UserClient {

@@ -1,7 +1,7 @@
 package com.jx.retrofitlearn.model;
 
 /**
- * Created by jiang.xu on 2015/11/7.
+ * Created by fei.wang on 2016/3/7.
  */
 public class Contributor {
     public String login;

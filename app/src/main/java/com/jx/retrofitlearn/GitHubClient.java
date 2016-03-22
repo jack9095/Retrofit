@@ -10,7 +10,7 @@ import retrofit2.http.Path;
 
 
 /**
- * Created by jiang.xu on 2015/11/7.
+ * Created by fei.wang on 2016/3/7.
  */
 public interface GitHubClient {
 

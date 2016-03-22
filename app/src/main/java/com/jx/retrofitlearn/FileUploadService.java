@@ -9,7 +9,7 @@ import retrofit2.http.POST;
 import retrofit2.http.Part;
 
 /**
- * Created by jiang.xu on 2016/2/29.
+ * Created by fei.wang on 2016/2/29.
  */
 public interface FileUploadService {
     @Multipart  //@Multipart 注解来发送 multipart (文件)数据
