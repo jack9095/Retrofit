@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });    // POST PARAM
 
-        findViewById(R.id.button4).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.button5).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this,UpLoadActivity.class));

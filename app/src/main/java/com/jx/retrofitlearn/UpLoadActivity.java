@@ -90,9 +90,6 @@ public class UpLoadActivity extends AppCompatActivity {
         });
     }
 
-    
-
-
     public String getSelectImageFromGallery(Intent data) {
         if (data == null)
             return null;
