@@ -3,6 +3,7 @@ Retrofit
 Retrofit的基本用法
 
 第一： 首先需要依赖以下JAR：
+
 compile 'com.squareup.retrofit2:retrofit:2.0.0'
 compile 'com.squareup.retrofit2:converter-gson:2.0.0'
 compile 'com.squareup.okhttp3:okhttp:3.2.0'
